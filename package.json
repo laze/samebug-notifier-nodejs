@@ -1,0 +1,35 @@
+{
+    "name": "raygun",
+    "description": "Raygun.io plugin for Node",
+    "version": "0.4.2",
+    "homepage": "https://github.com/laze/samebug-notifier-nodejs",
+    "author": {
+        "name": "MindscapeHQ",
+        "email": "hello@raygun.io"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/laze/samebug-notifier-nodejs.git"
+    },
+    "bugs": {
+        "url": "https://github.com/laze/samebug-notifier-nodejs/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/laze/samebug-notifier-nodejs/blob/master/LICENSE-MIT"
+        }
+    ],
+    "main": "lib/samebug",
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "devDependencies": {
+        "grunt-contrib-watch": "~0.2.0",
+        "grunt": "~0.4.1"
+    },
+    "dependencies": {
+        "stack-trace": "0.0.6"
+    },
+    "keywords": []
+}
