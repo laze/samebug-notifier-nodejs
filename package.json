@@ -1,11 +1,11 @@
 {
     "name": "raygun",
-    "description": "Raygun.io plugin for Node",
+    "description": "Samebug.io plugin for Node",
     "version": "0.4.2",
     "homepage": "https://github.com/laze/samebug-notifier-nodejs",
     "author": {
-        "name": "MindscapeHQ",
-        "email": "hello@raygun.io"
+        "name": "Samebug",
+        "email": "hello@samebug.io"
     },
     "repository": {
         "type": "git",
